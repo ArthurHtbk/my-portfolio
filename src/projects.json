@@ -1,0 +1,66 @@
+[
+  {
+    "name": {
+      "english": "Vinted (copy)",
+      "french": "Vinted (copie)"
+    },
+    "description": {
+      "english": "Let me introduce you to my first ever full-stack website! It is a copy of the website Vinted, including -but not limited to- features such as account creation and authentication, payment and the possibility to add new offers.",
+      "french": "Je vous présente mon tout premier projet full stack ! C'est une copie du site Vinted, qui comprend entre autres des fonctionnalités telles que création d'un compte et authentification, paiement ainsi que la possibilité d'ajouter de nouvelles offres."
+    },
+    "tools": ["React", "Node.js", "Express", "MongoDB", "Stripe"],
+    "url": "https://dazzling-wing-bf1551.netlify.app",
+    "repository": {
+      "backend": "https://github.com/ArthurHtbk/vinted",
+      "frontend": "https://github.com/ArthurHtbk/vinted-front"
+    }
+  },
+  {
+    "name": {
+      "english": "Marvel tribute",
+      "french": "Hommage à Marvel"
+    },
+    "description": {
+      "english": "As a big Marvel enthusiast, I had a lot of fun creating this Marvel themed full-stack application! The back end communicates with an API containing data on more than 47,000 characters and comic books from the Marvel universe, and users can create an account and add comic books as well as characters to their list of favorites.",
+      "french": "En tant que grand fan de Marvel, j'ai adoré créer cette application full stack ! Le serveur communique avec une API contenant des données sur plus de 47 000 personnages et comics issus de l'univers Marvel, et les utilisateurs peuvent créer un compte et ajouter des comics ainsi que des personnages à leur liste de favoris."
+    },
+    "tools": ["React", "Node.js", "Express", "MongoDB"],
+    "url": "https://focused-leavitt-6e6137.netlify.app",
+    "repository": {
+      "backend": "https://github.com/ArthurHtbk/marvel-backend",
+      "frontend": "https://github.com/ArthurHtbk/marvel-frontend"
+    }
+  },
+  {
+    "name": {
+      "english": "Leonie Hey",
+      "french": "Leonie Hey"
+    },
+    "description": {
+      "english": "I created this website for Leonie Hey, a professional jazz bassist and double bassist based on Bordeaux, France. The website is available in three languages (English, French and German), and Leonie can dynamically update her pictures, upcoming concerts, biography and music videos via a user-friendly back office.",
+      "french": "J'ai créé ce site pour Leonie Hey, une bassiste et contrebassiste de jazz professionnelle basée sur Bordeaux. Le site est disponible en trois langues (anglais, français et allemand), et Leonie peut mettre à jour dynamiquement ses photos, concerts à venir, sa biographie et ses vidéos grâce à un backoffice très simple d'utilisation."
+    },
+    "tools": ["React", "Node.js", "Express", "MongoDB"],
+    "url": "https://confident-brahmagupta-9636d2.netlify.app",
+    "repository": {
+      "backend": "https://github.com/ArthurHtbk/Leonie-backend",
+      "frontend": "https://github.com/ArthurHtbk/leonie-frontend"
+    }
+  },
+  {
+    "name": {
+      "english": "My portfolio",
+      "french": "Mon portfolio"
+    },
+    "description": {
+      "english": "The very website you're consulting right now!",
+      "french": "Le site web sur lequel vous vous trouvez en ce moment-même !"
+    },
+    "tools": ["React", "Node.js", "Express", "MongoDB", "Nodemailer"],
+    "url": "https://confident-brahmagupta-9636d2.netlify.app",
+    "repository": {
+      "backend": "https://github.com/ArthurHtbk/portfolio-backend",
+      "frontend": "https://github.com/ArthurHtbk/leonie-frontend"
+    }
+  }
+]

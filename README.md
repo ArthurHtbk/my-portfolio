@@ -41,7 +41,7 @@ yarn start
 
 Then open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Pay them a visit!
+## Check this out!
 
 - **[My portfolio](https://arthur-heurtebise.netlify.app/)**
 - **The corresponding [back-end repository](https://github.com/ArthurHtbk/portfolio-backend)**

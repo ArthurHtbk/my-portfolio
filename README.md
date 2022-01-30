@@ -6,7 +6,7 @@
 
 Welcome to the front-end repository of my portfolio!
 
-This is a one page application, available in two languages (**English** (default) and **French**).
+This is a one page application, available in two languages: **English** (default) and **French**.
 
 ## Packages & dependencies
 
@@ -14,7 +14,7 @@ This is a one page application, available in two languages (**English** (default
 - [Axios](https://www.npmjs.com/package/axios)
 - [js-file-download](https://www.npmjs.com/package/js-file-download)
 - [React Spinners](https://www.npmjs.com/package/react-spinners)
-- [Reanct Spring](https://www.npmjs.com/package/react-spring)
+- [React Spring](https://www.npmjs.com/package/react-spring)
 
 ## Make yourself at home
 

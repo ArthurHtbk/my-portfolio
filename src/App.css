@@ -415,6 +415,21 @@ button:focus-visible::after,
   width: 50vw;
 }
 
+#contact {
+  position: relative;
+}
+
+#contact p {
+  text-align: center;
+}
+
+#contact .top-box {
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+  right: 50px;
+}
+
 form {
   display: flex;
   flex-direction: column;
@@ -811,6 +826,12 @@ footer span {
 
   #about p {
     width: calc(100vw - 50px);
+  }
+
+  #contact .top-box {
+    bottom: 25px;
+    left: 25px;
+    right: 25px;
   }
 
   input,

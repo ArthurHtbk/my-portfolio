@@ -1,6 +1,8 @@
 import axios from "axios";
 import { useState } from "react";
 
+import Sent from "./Sent";
+
 const Contact = ({ english }) => {
   const [firstname, setFirstname] = useState("");
   const [lastname, setLastname] = useState("");
@@ -44,9 +46,7 @@ const Contact = ({ english }) => {
         <h1 className="title">{english ? "Contact me" : "Contactez moi"}</h1>
       </div>
       {sent ? (
-        <p>
-          {english ? "Thanks for your message!" : "Merci de votre message !"}
-        </p>
+        <Sent english={english} sent={sent} setSent={setSent} />
       ) : (
         <form onSubmit={handleSubmit}>
           <input

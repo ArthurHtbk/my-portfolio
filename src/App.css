@@ -368,14 +368,6 @@ button:focus-visible::after,
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  opacity: 0;
-  transition: opacity 0.2s ease-in;
-}
-
-.pseudo-modal:hover,
-.pseudo-modal:focus-visible,
-.pseudo-modal:focus-within {
-  opacity: 1;
 }
 
 .project-info {

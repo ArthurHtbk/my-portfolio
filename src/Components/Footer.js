@@ -20,7 +20,7 @@ const Footer = ({ english }) => {
           </button>
         </a>
         <a
-          href="https://www.linkedin.com/feed/"
+          href="https://www.linkedin.com/in/arthur-heurtebise/"
           target="_blank"
           rel="noopener noreferrer"
           className="social-networks"

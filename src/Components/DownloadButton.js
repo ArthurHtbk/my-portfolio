@@ -10,7 +10,7 @@ const DownloadButton = ({ english }) => {
         { responseType: "blob" }
       );
       if (english) {
-        fileDownload(response.data, "arthur_heurtebise_resume.pdf");
+        fileDownload(response.data, "ResumeArthurHeurtebise.pdf");
       } else {
         fileDownload(response.data, "CVArthurHeurtebise.pdf");
       }

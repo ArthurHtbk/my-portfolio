@@ -12,7 +12,7 @@ const DownloadButton = ({ english }) => {
       if (english) {
         fileDownload(response.data, "arthur_heurtebise_resume.pdf");
       } else {
-        fileDownload(response.data, "arthur_heurtebise_cv.pdf");
+        fileDownload(response.data, "CVArthurHeurtebise.pdf");
       }
     } catch (error) {
       console.log(error.message);
